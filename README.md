@@ -45,25 +45,21 @@ The Tableau dashboard consists of **7 interactive sheets**:
 - Grouped by Department and Grade Level
 - Chart type: Grouped bar chart
 
-### 3. Attendance vs Average Score
-- Scatter plot showing correlation between attendance and performance
-- Color: Pass/Fail status | Size: Study hours per day
-
-### 4. Performance by Gender & Location
+### 3. Performance by Gender & Location
 - Heat map comparing average scores across Gender × Location (Rural / Suburban / Urban)
 - Highlights demographic performance differences
 
-### 5. Study Hours Impact
+### 4. Study Hours Impact
 - Effect of daily study hours on average scores
 - Split by Tutoring Support (Yes/No)
 - Chart type: Line chart
 
-### 6. School-wise Trend
+### 5. School-wise Trend
 - Performance trends across 3 academic years (2022–23, 2023–24, 2024–25)
 - One line per school (School A, B, C, D)
 - Chart type: Line chart
 
-### 7. Socioeconomic Influence
+### 6. Socioeconomic Influence
 - Heat map of Family Income × Parent Education vs Average Score
 - Reveals how background factors influence academic outcomes
 
